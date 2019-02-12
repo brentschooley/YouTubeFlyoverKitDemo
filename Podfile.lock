@@ -1,0 +1,16 @@
+PODS:
+  - FlyoverKit (1.2.2)
+
+DEPENDENCIES:
+  - FlyoverKit (~> 1.2.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FlyoverKit
+
+SPEC CHECKSUMS:
+  FlyoverKit: 5c34d155a9ac8fc85af795eeca243bc51ebee15f
+
+PODFILE CHECKSUM: 948860156df2c1918dd10e8ad5e4c90bf9c3791c
+
+COCOAPODS: 1.5.3
